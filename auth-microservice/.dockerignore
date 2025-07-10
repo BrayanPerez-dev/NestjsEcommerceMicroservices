@@ -1,0 +1,20 @@
+# Git 
+.git 
+.gitignore 
+
+# Node 
+node_modules 
+npm-debug.log 
+
+# Build 
+dist 
+build 
+
+# IDE
+.idea 
+.vscode
+
+# Docker 
+docker-compose.yml
+Dockerfile 
+.dockerignore
